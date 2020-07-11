@@ -1,4 +1,13 @@
-### Hi there 👋
+# Mauricio Viana
+[![Linkedin Badge](https://img.shields.io/badge/-mauricio--viana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauricio-viana/)](https://www.linkedin.com/in/mauricio-viana/)
+
+## Hi 👋, 
+I'm Mauricio Viana. I'm a junior developer 👨‍💻 who is passionate about digital transformation and software development. 
+
+- 🌱 I’m currently learning Spring Projects, Angular and React
+- 💬 Ask me about: tech, anime, manga :heart:
+- 😄 Pronouns: he/him
+-  ⚡ Languages: Java, Javascript
 
 <!--
 **mauricio-viana/mauricio-viana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
